@@ -1,2 +1,2 @@
-# wild-projec
+# wild-project
 comment installer ce projet ?
